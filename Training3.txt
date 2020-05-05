@@ -1,3 +1,7 @@
 This is in the initial file.
 
 Every from this line up is in the initial file.
+
+These are new lines now.
+
+This too.
